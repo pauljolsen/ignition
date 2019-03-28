@@ -1,0 +1,15 @@
+{
+  "ignition": {
+    "version": "2.1.0"
+  },
+  "passwd": {
+    "users": [
+      {
+        "name": "core",
+        "sshAuthorizedKeys": [
+          "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCeDWc/j8ZCqS9gWmm6rcB7X5OOSw6nLo6pv68LJQOloBD48Rbe4FEjSi4q8yCFmihWEvAshi8UPIOgX4JlkhmbLY6oxnKKuASAOqeZxTLHIVsn3bkP8GbiSPIWP8rbs4QGqFokcFrx8lfW4EEN//xxTIB9ubPcYl5P4v6gQQMiDICZ9GavF1K/gkoz7B7m0s9ydpq3rl9S2UpybPBagpHFW/dpM9gRm/QpLHct3c1ByIvA7HyIdvdN6aoh93SwPrTxn2SQqyTiFhqIzVa0Mdf7pw29ahzceZHCAnLXM+6ObhsYvKtCcp6amCfsQgJh+GfmvFkFatOXaAKSqYLzfv/f polsen@NYK-POLSEN-L1M"
+        ]
+      }
+    ]
+  }
+}
